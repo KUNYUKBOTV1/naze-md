@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6283832553703
 
 Minimal Kasih Cr kalo mau reupload😡
 
@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Naze & ( kunyuk store )
 
 **/
 require('./config')
@@ -2439,7 +2439,7 @@ break
 	    break
 	case 'menfes': case 'menfess': {
 		        if (m.isGroup) throw ('fitur tidak dapat digunakan di grup')
-            	if (!text) throw `Example : ${prefix + command} 6282xxxxx|nama samaran|pesan`
+            	if (!text) throw `Example : ${prefix + command} 6283832553703|nama samaran|pesan`
             var mon = args.join(' ')
             var m1 = mon.split("|")[0]
             var m2 = mon.split("|")[1]
@@ -4709,4 +4709,4 @@ fs.watchFile(file, () => {
 	console.log(chalk.redBright(`Update ${__filename}`))
 	delete require.cache[file]
 	require(file)
-})
+})wa.me/623832553703
